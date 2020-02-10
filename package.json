@@ -1,14 +1,14 @@
 {
   "name": "builder-webpack-hct",
   "version": "1.0.0",
-  "description": "",
+  "description": "a builder webpack practice",
   "main": "index.js",
   "scripts": {
     "test": "istanbul cover ./node_modules/.bin/_mocha",
     "eslint": "eslint ./lib --fix"
   },
   "keywords": [],
-  "author": "",
+  "author": "christina_hct",
   "license": "ISC",
   "devDependencies": {
     "babel-eslint": "^10.0.3",
